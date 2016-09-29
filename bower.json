@@ -1,0 +1,13 @@
+{
+  "name": "webassign-calendar",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "moment": "^2.15.1"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~3.1.0"
+  }
+}
